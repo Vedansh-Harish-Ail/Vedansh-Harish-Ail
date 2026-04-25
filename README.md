@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Ashwin%20A&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Vedansh%20Harish%20Ail&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h3 align="center">Full Stack Developer | MCA Graduate | Building Real-World Applications</h3>
 
