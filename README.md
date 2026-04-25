@@ -71,35 +71,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏛️ Meri Panchayat – Public Issue Reporting Portal
-- Flask + SQLite backend with OTP authentication  
-- RBAC system with real-time issue tracking  
-- Multi-language support (Kannada)  
-- Admin analytics dashboard  
-
----
-
-### 📰 News Website Scraper
-- Python-based real-time scraping  
-- Sentiment analysis on headlines  
-- CSV export functionality  
-
----
-
-### 🍲 Smart Recipe Generator
-- Responsive UI with modular design  
-- Optimized frontend performance  
-
----
-
-### 🤖 Food Delivery Time Prediction
-- ML regression model  
-- Feature engineering & evaluation  
-
----
-
 ## 💼 Experience
 **Web Development Intern – Oasis Infobyte**
 - Built responsive UI components  
