@@ -107,6 +107,39 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=tokyo-night)
 
 ---
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedansh-Harish-Ail&theme=tokyonight" />
+
+</td>
+<td width="50%">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Vedansh-Harish-Ail&show_icons=true&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=tokyo-night" />
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedansh-Harish-Ail&layout=compact&theme=tokyonight" />
+</p>
+---
 
 ## 📫 Connect With Me
 - 📧 Email: ailvedansh@gmail.com  
