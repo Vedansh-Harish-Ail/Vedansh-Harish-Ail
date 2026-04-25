@@ -111,7 +111,7 @@
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Vedansh-Harish-Ail" height="300"/>
+  <img src="https://ghchart.rshah.org/00ff00/Vedansh-Harish-Ail" height="800"/>
 </p>
 
 ---
