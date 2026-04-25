@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, I'm Vedansh Harish Ail</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Vedansh Harish Ail %20A&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h3 align="center">Full Stack Developer | MCA Graduate | Building Real-World Applications</h3>
 
 ---
