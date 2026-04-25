@@ -99,7 +99,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vedansh-Harish-Ail&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy/?username=Vedansh-Harish-Ail&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
