@@ -104,13 +104,6 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=tokyo-night)
 
 ---
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/Vedansh-Harish-Ail" height="800"/>
-</p>
-
----
 
 
 ## 📫 Connect With Me
