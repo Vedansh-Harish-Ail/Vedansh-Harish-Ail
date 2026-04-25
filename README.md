@@ -66,11 +66,6 @@
 
 ---
 
-### 🎨 Tools & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
 ## 💼 Experience
 **Web Development Intern – Oasis Infobyte**
 - Built responsive UI components  
