@@ -119,7 +119,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://https://portfolio-vedansh-eta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
