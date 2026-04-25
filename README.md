@@ -108,6 +108,12 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=tokyo-night)
 
 ---
+## 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=github-compact"/>
+</p>
+---
 
 ## 📫 Connect With Me
 - 📧 Email: ailvedansh@gmail.com  
