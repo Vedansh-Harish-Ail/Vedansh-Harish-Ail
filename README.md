@@ -109,10 +109,18 @@
 
 ---
 ## 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Vedansh-Harish-Ail" />
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff00/Vedansh-Harish-Ail" height="180"/>
+</p>
+
+---
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=github-compact"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=github-dark" height="300"/>
+</p>
 ---
 
 ## 📫 Connect With Me
