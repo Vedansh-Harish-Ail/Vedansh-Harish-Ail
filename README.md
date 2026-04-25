@@ -108,11 +108,11 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=tokyo-night)
 
 ---
-## 📅 Contribution Activity
+## 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Vedansh-Harish-Ail" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=github-compact"/>
-</p>
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Harish-Ail&theme=github-compact"/>
 ---
 
 ## 📫 Connect With Me
