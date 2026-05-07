@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 MCA Graduate with strong CS fundamentals  
+- 🎓 MCA Graduate
 - 💻 Skilled in Python, Java, JavaScript & SQL  
 - ⚡ Focused on building scalable and practical applications  
 - 📊 Experience in data-driven solutions & ML basics  
@@ -113,7 +113,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://portfolio-vedansh-eta.vercel.app/" target="_blank">
+  <a href="https://vedansh-portfolio-beta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
