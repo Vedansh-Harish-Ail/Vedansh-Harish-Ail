@@ -13,6 +13,10 @@
 - 📊 Experience in data-driven solutions & ML basics
 - 🧠 Believe in: **Consistency > Motivation**
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="300"/>
+</p>
+
 ---
 
 ## 🧩 Areas of Interest
