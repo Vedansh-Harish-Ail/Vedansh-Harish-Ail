@@ -5,8 +5,6 @@
 
 ---
 
-
-
 ## 🚀 About Me
 
 - 🎓 MCA Graduate
@@ -14,13 +12,6 @@
 - ⚡ Focused on building scalable and practical applications
 - 📊 Experience in data-driven solutions & ML basics
 - 🧠 Believe in: **Consistency > Motivation**
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b340f4f-0e20-4a9b-a58b-9d045910c8e7.gif" width="350"/>
-</td>
 
 ---
 
