@@ -8,7 +8,9 @@
 ## 🚀 About Me
 - 🎓 MCA Graduate
 - 💻 Skilled in Python, Java, JavaScript & SQL  
-- ⚡ Focused on building scalable and practical applications  
+- ⚡ Focused on building scalable and practical applications  <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="700"/>
+</p>
 - 📊 Experience in data-driven solutions & ML basics  
 - 🧠 Believe in: **Consistency > Motivation**
 
