@@ -5,15 +5,27 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## 🚀 About Me
+
 - 🎓 MCA Graduate
-- 💻 Skilled in Python, Java, JavaScript & SQL  
-- ⚡ Focused on building scalable and practical applications  <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="700"/>
-</p>
-- 📊 Experience in data-driven solutions & ML basics  
+- 💻 Skilled in Python, Java, JavaScript & SQL
+- ⚡ Focused on building scalable and practical applications
+- 📊 Experience in data-driven solutions & ML basics
 - 🧠 Believe in: **Consistency > Motivation**
 
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b340f4f-0e20-4a9b-a58b-9d045910c8e7.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🧩 Areas of Interest
