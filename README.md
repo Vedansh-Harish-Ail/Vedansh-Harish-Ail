@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=220&section=header&text=Vedansh%20Harish%20Ail&fontSize=46&fontColor=ffffff&animation=fadeIn" />
-</p>
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39D353&center=true&vCenter=true&width=900&height=100&lines=Vedansh+Harish+Ail;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Building+Real-World+Applications" /></p>
+</p><p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39D353&center=true&vCenter=true&width=900&height=100&lines=Vedansh+Harish+Ail;Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript;Building+Real-World+Applications" /></p>
 
 ---
 
