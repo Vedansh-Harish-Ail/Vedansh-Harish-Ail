@@ -16,8 +16,9 @@
 - ⚡ Focused on scalable web applications
 </td>
 <td>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212744275-2b340f4f-0e20-4a9b-a58b-9d045910c8e7.gif"/>
-</td>
+<p align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="300"/>
+</p>
 </tr>
 ---
 
