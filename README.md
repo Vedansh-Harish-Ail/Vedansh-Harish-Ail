@@ -16,9 +16,7 @@
 - ⚡ Focused on scalable web applications
 </td>
 <td>
-<p align="right">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="300"/>
-</p>
 </tr>
 ---
 
