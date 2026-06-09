@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td>
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 MCA Graduate
 - 💻 Full Stack Developer
