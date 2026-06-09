@@ -19,6 +19,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="400"/>
 </tr>
 </table>
+
 ---
 
 ## 🧩 Areas of Interest
