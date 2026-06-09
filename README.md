@@ -11,12 +11,12 @@
 
 - 🎓 MCA Graduate
 - 💻 Full Stack Developer
-- 🌱 Currently learning and building real-world projects
+- 🌱 Currently learning and building real-world projects                                                                            
 - 📊 Interested in Data Analysis & ML
 - ⚡ Focused on scalable web applications
 </td>
 <td>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="300"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="400"/>
 </tr>
 </table>
 ---
