@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | MCA Graduate | Building Real-World Applications</h3>
 
 ---
-
+<table>
 <tr>
 <td>
 ### 🚀 About Me
@@ -18,6 +18,7 @@
 <td>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer" width="300"/>
 </tr>
+</table>
 ---
 
 ## 🧩 Areas of Interest
